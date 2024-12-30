@@ -13,8 +13,6 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "yuna0x0/DressingTools"
-    ],
+    "githubRepos":[],
     "packages": []
 }
