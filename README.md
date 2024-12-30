@@ -4,7 +4,6 @@
 
 - Website: https://vpm.yuna0x0.com
 - VPM Listing URL: `https://vpm.yuna0x0.com/index.json`
-- Add to VCC: `vcc://vpm/addRepo?url=https://vpm.yuna0x0.com/index.json`
 - Add to VPM CLI:
     ```shell
     vpm add repo https://vpm.yuna0x0.com/index.json
