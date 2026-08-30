@@ -28,4 +28,4 @@ vpm add package <package name>
 
 | Package | Description |
 |---|---|
-| [Basis Convert](https://github.com/yuna0x0/basis-convert) | Convert avatars, clothing and props from other social VR platforms for use with [Basis](https://basisvr.org/). |
+| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): avatars, clothing and props from other social VR platforms. |
