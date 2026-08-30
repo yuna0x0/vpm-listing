@@ -1,18 +1,20 @@
 {
-    "name":"yuna0x0's VPM Repo",
-    "id":"com.yuna0x0.vpm",
-    "url":"https://vpm.yuna0x0.com/index.json",
-    "author":{
-        "email":"yuna@yuna0x0.com",
-        "name":"yuna0x0",
-        "url":"https://yuna0x0.com"
+    "name": "yuna0x0's VPM Repo",
+    "id": "com.yuna0x0.vpm",
+    "url": "https://vpm.yuna0x0.com/index.json",
+    "author": {
+        "email": "yuna@yuna0x0.com",
+        "name": "yuna0x0",
+        "url": "https://yuna0x0.com"
     },
-    "description":"yuna0x0's VPM Package Listing",
-    "infoLink":{
-        "url":"https://github.com/yuna0x0/vpm-listing",
-        "text":"View on GitHub"
+    "description": "yuna0x0's VPM Package Listing",
+    "infoLink": {
+        "url": "https://github.com/yuna0x0/vpm-listing",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[],
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "yuna0x0/basis-convert"
+    ],
     "packages": []
 }

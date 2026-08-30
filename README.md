@@ -8,3 +8,9 @@
     ```shell
     vpm add repo https://vpm.yuna0x0.com/index.json
     ```
+
+## Packages
+
+| Package | Description |
+|---|---|
+| [Basis Convert](https://github.com/yuna0x0/basis-convert) | Convert avatars, clothing and props from other social VR platforms for use with [Basis](https://basisvr.org/). |
