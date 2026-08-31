@@ -28,4 +28,4 @@ vpm add package <package name>
 
 | Package | Description |
 |---|---|
-| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): avatars, clothing and props, whatever they were built for. Physics, constraints, menus and motion. |
+| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): VRChat, VRM and Dynamic Bone components become jiggle physics, constraints, Vixxy controls and authored motion. |
