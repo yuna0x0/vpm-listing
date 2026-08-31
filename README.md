@@ -28,4 +28,4 @@ vpm add package <package name>
 
 | Package | Description |
 |---|---|
-| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): VRChat, VRM and Dynamic Bone components become jiggle physics, constraints, Vixxy controls and authored motion. |
+| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): VRChat, VRM and Dynamic Bone components become jiggle physics, constraints, the avatar descriptor, HVR Vixxy controls and authored motion. |
