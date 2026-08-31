@@ -28,4 +28,4 @@ vpm add package <package name>
 
 | Package | Description |
 |---|---|
-| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): avatars, clothing and props from VRChat, VRM and the physics plugins in between. |
+| [Watari](https://github.com/yuna0x0/watari-basis) | Converter for [Basis](https://basisvr.org/): avatars, clothing and props, whatever they were built for. Physics, constraints, menus and motion. |
