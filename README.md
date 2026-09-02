@@ -8,7 +8,9 @@
 ## Adding the listing
 
 With [ALCOM](https://vrc-get.anatawa12.com/en/alcom/), an open-source package manager for Unity
-projects: open **Packages**, choose **Add Repository**, and enter the listing URL.
+projects: open **Packages**, go to the **Repositories** tab, press **Add Repository**, and enter
+the listing URL. Packages from it then appear in the list for any project you open under
+**Projects**, where **Add Package** installs one.
 
 From a terminal with [vrc-get](https://github.com/vrc-get/vrc-get), which ALCOM is built on:
 
